@@ -60,7 +60,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-lethalcompanymodding@mamallama.dev or any Staff role on the community Discord server.
+lethalcompanymodding@mamallama.dev or by messaging LC Modmail on the Discord Server.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
